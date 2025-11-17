@@ -112,7 +112,7 @@ GameObject:
   - component: {fileID: 5603455872076295732}
   m_Layer: 0
   m_Name: MonsterDong
-  m_TagString: DongDong
+  m_TagString: Dong
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
