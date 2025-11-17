@@ -9,9 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Scenes123.unity
     guid: 2d2eb0c6004569d4f8c981bffe0b2ce9
   - enabled: 1
     path: Assets/Scenes/SettingsScene.unity
     guid: 0f21e961217111941b64bdf633848517
+=======
+    path: Assets/Scenes/New Scene.unity
+    guid: e15392a748be0054aa5ef9d3936d3642
+  - enabled: 1
+    path: Assets/Scenes/D.unity
+    guid: 277282d9b1d6d1544a74638c2193b2e1
+>>>>>>> seokhyun
   m_configObjects: {}
